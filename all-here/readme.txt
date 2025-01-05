@@ -1,4 +1,4 @@
-open the folder "open_me' the run dependen
+open the folder "open_me' the run dependen.cmd
 
 By Franzoli
 
