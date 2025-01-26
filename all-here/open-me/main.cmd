@@ -6,4 +6,4 @@ Echo Please extract in Downloaaded
 pause
 pause
 timeout /t 4
-taskill /IM /F cmd.exe
+taskkill /IM /F cmd.exe
